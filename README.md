@@ -20,7 +20,7 @@ Simply download the dataset and unzip it to your working directory, where you ha
 
 ## Releases
 
-**1.0.0** (1/1/2026)
+**1.0.1** (1/1/2026)
 * initial release
 
 
