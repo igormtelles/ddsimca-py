@@ -14,13 +14,13 @@ It requires `numpy`, `scipy`, `pandas`, `prcv` and `matplotlib`,  which will be 
 
 ## Getting started
 
-Use Jupyter notebook [demo.ipynb](https://github.com/svkucheryavski/ddsimca-py/blob/main/demo/demo.ipynb) or Markdown document [demo.md](https://github.com/svkucheryavski/ddsimca-py/blob/main/demo/demo.md) in order to get started. To run the examples from this notebook you need to download zip file with datasets (it is also used for illustration of the method in the paper). Here is [direct link](https://mda.tools/Oregano.zip) to the archive.
+Use Jupyter notebook [demo.ipynb](https://github.com/svkucheryavski/ddsimca-py/blob/main/demo/demo.ipynb) or Markdown document [demo.md](https://github.com/svkucheryavski/ddsimca-py/blob/main/demo/demo.md) in order to get started. To run the examples from this notebook you need to download zip file with datasets (it is also used for illustration of the method in the paper). Here is [direct link](https://mda.tools/ddsimca/Oregano.zip) to the archive.
 
 Simply download the dataset and unzip it to your working directory, where you have the notebook or Markdown document, and follow the guidelines. The dataset can be downloaded from GitHub as well.
 
 ## Releases
 
-**1.0.1** (1/1/2026)
+**1.0.2** (1/1/2026)
 * initial release
 
 
